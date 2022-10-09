@@ -11,8 +11,9 @@ tamanho_maximo = 100
 ```
 $python3 main.py
 ```
-<p> digite no console o nome do arquivo. Exemplo:</p>
-* (nao precisa colocar .ofx)
+<p> digite no console o nome do arquivo. Exemplo:
+* (nao precisa colocar .ofx)</p>
+
 ```
 $ofx
 ```
