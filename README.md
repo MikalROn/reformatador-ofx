@@ -16,5 +16,5 @@ $python3 main.py
 ```
 $ofx
 ```
-### Depois de dado o nome, se tudo estiver correto, seu arquivo saira como:
+#### Depois de dado o nome, se tudo estiver correto, seu arquivo saira como:
 > ofx_reformatado.ofx
