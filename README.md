@@ -1,5 +1,5 @@
 # reformatador-ofx
-<h2> Reformata arquivos ofx com tamanho maior que o aceito pelo sistema </h2> 
+<p> Reformata arquivos ofx com tamanho maior que o aceito pelo sistema </p> 
 
 ##Como usar:
 > caso queira mudar o tamanho máximo e so alterar a seguinte variável -->
@@ -11,8 +11,10 @@ tamanho_maximo = 100
 ```
 $python3 main.py
 ```
-> digite no console o nome do arquivo. Exemplo:
-*(nao precisa colocar .ofx)*
+<p>digite no console o nome do arquivo. Exemplo:
+* (nao precisa colocar .ofx)
 ```
 $ofx
 ```
+ ### Depois de dado o nome, se tudo estiver correto, seu arquivo saira como:
+ > ofx_reformatado.ofx
