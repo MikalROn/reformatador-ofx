@@ -1,7 +1,7 @@
 # reformatador-ofx
 <p> Reformata arquivos ofx com tamanho maior que o aceito pelo sistema </p> 
 
-##Como usar:
+## Como usar:
 > caso queira mudar o tamanho máximo e so alterar a seguinte variável -->
 ```
 tamanho_maximo = 100
